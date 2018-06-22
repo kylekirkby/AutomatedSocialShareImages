@@ -9,6 +9,13 @@ This python3/PyQt5 script automates the process of taking screenshots of web pag
 - Automate cache invalidation of popular social media sites so new share images show automatically.
 
 
+## Issues
+If you come across any issues simply open an issue on this repo and I will look into it when time permits.
+
+## Contributions
+
+Please feel free to contribute to this project by submitting a PR with detailed information on what your PR does and why it's important.
+
 ## Credits
 
 Credit for initial code to capture basic screen shot goes to [this](https://stackoverflow.com/questions/1197172/how-can-i-take-a-screenshot-image-of-a-website-using-python) Stack Overflow post.
